@@ -1,4 +1,4 @@
-import { getMapServiceByName } from 'lib/map-services';
+import { getMapServiceByName } from './src/lib/map-services';
 import MapService from 'models/map-service';
 
 const useMapServices = ({ names = [], services: userServices } = {}) => {
