@@ -1,5 +1,5 @@
 import { getMapServiceByName } from './src/lib/map-services';
-import MapService from 'models/map-service';
+import MapService from './tests/models/map-service';
 
 describe( 'models::map-services', () => {
   it( 'should create a new service model', () => {
