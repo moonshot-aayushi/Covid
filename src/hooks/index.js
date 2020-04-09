@@ -1,3 +1,3 @@
-export { default as useConfigureLeaflet } from './src/hooks/useConfigureLeaflet';
-export { default as useMapServices } from './src/hooks/useMapServices';
-export { default as useRefEffect } from './src/hooks/useRefEffect';
+export { default as useConfigureLeaflet } from '../hooks/useConfigureLeaflet';
+export { default as useMapServices } from '../hooks/useMapServices';
+export { default as useRefEffect } from '../hooks/useRefEffect';
